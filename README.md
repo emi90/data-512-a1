@@ -50,6 +50,7 @@ More information regarding the old legacy pagecount definition can be viewed [he
 
 ### Folder Structure
 
+```
  data-512-a1
     ├── LICENSE
     ├── README.md
@@ -64,3 +65,4 @@ More information regarding the old legacy pagecount definition can be viewed [he
     ├── visualization
     │   └── plot.png
     └── hcds-a1-data-curation.ipynb
+```
